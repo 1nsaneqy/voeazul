@@ -32,5 +32,5 @@ Siga as etapas abaixo para rodar o **Checker Voe Azul** no seu ambiente local:
 
 ## 💻 Quem fortaleceu o código foi:
 
-- </> 1nsaneqy,
+- 1nsaneqy,
 - Equipe Lean7!
